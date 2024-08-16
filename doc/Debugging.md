@@ -7,3 +7,7 @@ Suggested Debug Log Settings for Apex Code Troubleshooting:
 - **DEBUG**: System
 - **FINE**: Apex Code
 
+Set Up Log Streaming in Terminal:
+`$ sfdx force:apex:log:tail --color`
+
+
